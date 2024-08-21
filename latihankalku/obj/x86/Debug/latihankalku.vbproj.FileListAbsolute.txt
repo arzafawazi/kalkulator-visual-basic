@@ -1,0 +1,9 @@
+D:\latihankalku\latihankalku\bin\Debug\latihankalku.exe
+D:\latihankalku\latihankalku\bin\Debug\latihankalku.pdb
+D:\latihankalku\latihankalku\bin\Debug\latihankalku.xml
+D:\latihankalku\latihankalku\obj\x86\Debug\latihankalku.Form1.resources
+D:\latihankalku\latihankalku\obj\x86\Debug\latihankalku.Resources.resources
+D:\latihankalku\latihankalku\obj\x86\Debug\latihankalku.vbproj.GenerateResource.Cache
+D:\latihankalku\latihankalku\obj\x86\Debug\latihankalku.exe
+D:\latihankalku\latihankalku\obj\x86\Debug\latihankalku.xml
+D:\latihankalku\latihankalku\obj\x86\Debug\latihankalku.pdb
